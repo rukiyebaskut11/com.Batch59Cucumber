@@ -1,0 +1,13 @@
+stepDefinitions\AmazonStepDefinitions.class
+stepDefinitions\DataTablesStepDefinitions.class
+pages\GuruPage.class
+utulities\ConfigReader.class
+pages\HerokuappPage.class
+pages\AmazonPage.class
+pages\HMCPage.class
+stepDefinitions\Hooks.class
+pages\DataTablesPage.class
+stepDefinitions\HMCStepDefinitions.class
+utulities\Driver.class
+stepDefinitions\GuruStepDefinitions.class
+stepDefinitions\HerokuStepDefinitions.class
